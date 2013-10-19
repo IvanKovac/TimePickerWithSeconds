@@ -1,4 +1,4 @@
 TimePickerWithSeconds
 =====================
 
-Android time picker with seconds field
+Android TimePicker widget with seconds field
