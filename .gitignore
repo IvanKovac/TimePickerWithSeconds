@@ -1,6 +1,5 @@
 #Android specific
 # built application files
-*.apk
 *.ap_
 
 obj
