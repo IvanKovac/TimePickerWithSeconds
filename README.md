@@ -1,17 +1,20 @@
 TimePickerWithSeconds
 =====================
 
-Android TimePicker widget with seconds field.
+Android TimePicker widget with seconds field included together with hours and minutes.
 
 About
 ------
 
-One can find the .apk inside the root of the repo - TimePickerWithSeconds.apk
+Appplication is available under the root dir - TimePickerWithSeconds.apk
 
-That apk is the demo of this solution and it is a great point to start. 
+If you like the solution you can continue with the source code.
 
-After that, if you like the solution you can continue with the source code.
+It is easy to integrate in any project.
 
 
 Enjoy!
 
+Aplication
+------
+It is under the root dir : TimePickerWithSeconds.apk
