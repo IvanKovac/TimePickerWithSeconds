@@ -3,6 +3,8 @@ TimePickerWithSeconds
 
 Android TimePicker widget with seconds field included together with hours and minutes.
 
+![alt tag](https://raw.github.com/IvanKovac/TimePickerWithSeconds/master/Screenshot_2014-03-03-19-55-49.png)
+
 About
 ------
 
