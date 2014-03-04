@@ -1,22 +1,44 @@
 TimePickerWithSeconds
 =====================
 
-Android TimePicker widget with seconds field included together with hours and minutes.
+Android TimePicker widget with seconds field included together with hours and minutes. This is extension of existing Androids TimePicker widget. It is developed above that widget.
 
 ![alt tag](https://raw.github.com/IvanKovac/TimePickerWithSeconds/master/Screenshot_2014-03-03-19-55-49.png)
 
-About
-------
 
-Appplication is available under the root dir - TimePickerWithSeconds.apk
-
-If you like the solution you can continue with the source code.
-
-It is easy to integrate in any project.
-
-
-Enjoy!
 
 Aplication
 ------
 It is under the root dir : TimePickerWithSeconds.apk
+
+Quick Setup
+------
+
+This is Android library project. To use it within your application follow these steps:
+
+1. Download the project to your workspace
+2. Import project into Eclipse
+3. Right click on YOUR project - > Properties -> Android 
+   Under the library choose "Add" and add TimePickerWithSeconds project
+4. Show the Picker with:
+   
+``` java
+MyTimePickerDialog mTimePicker = new MyTimePickerDialog(this, new MyTimePickerDialog.OnTimeSetListener() {
+
+			@Override
+			public void onTimeSet(TimePicker view, int hourOfDay, int minute, int seconds) {
+				// TODO Auto-generated method stub
+				/*time.setText(getString(R.string.time) + String.format("%02d", hourOfDay)+
+						":" + String.format("%02d", minute) + 
+						":" + String.format("%02d", seconds));	*/			
+			}
+		}, now.get(Calendar.HOUR_OF_DAY), now.get(Calendar.MINUTE), now.get(Calendar.SECOND), true);
+		mTimePicker.show();
+```
+
+
+Enjoy!
+
+Licence
+------
+Licensed under the Apache License, Version 2.0
