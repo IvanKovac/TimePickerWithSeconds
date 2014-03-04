@@ -77,7 +77,7 @@ public class MyTimePickerDialog extends AlertDialog implements OnClickListener,
             OnTimeSetListener callBack,
             int hourOfDay, int minute, int seconds, boolean is24HourView) {
     	
-        this(context, R.style.Theme_Dialog_Alert,
+        this(context, 0,
                 callBack, hourOfDay, minute, seconds, is24HourView);
     }
 
