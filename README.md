@@ -41,4 +41,4 @@ Enjoy!
 
 Licence
 ------
-Licensed under the Apache License, Version 2.0
+Feel free to use and change this code and include it in any of the projects you wish. There is no guarantee of any kind.
