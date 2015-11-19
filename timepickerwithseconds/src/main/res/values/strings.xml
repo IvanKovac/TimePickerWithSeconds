@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TimePicker With Seconds</string>
+    <string name="action_settings">Settings</string>
+    <string name="time_set">Set time</string>
+    <string name="cancel">Cancel</string>
+    <string name="time">Time : </string>
+</resources>

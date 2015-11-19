@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/B:/Projects/TimePickerWithSeconds/timepickerwithseconds/src/main/res/values/strings.xml -->
+    <eat-comment/>
+    <string name="action_settings">Settings</string>
+    <string name="app_name">TimePicker With Seconds</string>
+    <string name="cancel">Cancel</string>
+    <string name="time">Time : </string>
+    <string name="time_set">Set time</string>
+</resources>

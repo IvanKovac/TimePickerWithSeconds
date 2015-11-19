@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="B:\Projects\TimePickerWithSeconds\sample\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="8413c27b45b7fe61dca4a98159f65e2cee215f5a">
+        <dex dex="B:\Projects\TimePickerWithSeconds\sample\build\intermediates\pre-dexed\debug\classes-c4d6876407164440e1b11d313f6c5b3fa7c144b9.jar" />
+    </item>
+    <item
+        jar="B:\Projects\TimePickerWithSeconds\sample\build\intermediates\exploded-aar\TimePickerWithSeconds\timepickerwithseconds\unspecified\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="4ca9a156fc71dcc6abdca72be55c3eacb67aa4f0">
+        <dex dex="B:\Projects\TimePickerWithSeconds\sample\build\intermediates\pre-dexed\debug\classes-fe837e83ebbfb30994cdd7ea1f4edddcfe3e65a6.jar" />
+    </item>
+    <item
+        jar="B:\Projects\TimePickerWithSeconds\sample\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.0\jars\libs\internal_impl-23.0.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="8bd336eeae661e8311330284897ee07f8ebaa297">
+        <dex dex="B:\Projects\TimePickerWithSeconds\sample\build\intermediates\pre-dexed\debug\internal_impl-23.0.0-b46ff52d698599a71e976e4c5ed09d749d3387fa.jar" />
+    </item>
+    <item
+        jar="C:\Users\Ivan\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.0.0\support-annotations-23.0.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="990e7f98a7bad86a40b1f0bcfeb039023afd0839">
+        <dex dex="B:\Projects\TimePickerWithSeconds\sample\build\intermediates\pre-dexed\debug\support-annotations-23.0.0-44c4098512036f575379beda0da310aeda8902f8.jar" />
+    </item>
+
+</items>
