@@ -14,11 +14,12 @@ It is under the root dir : TimePickerWithSeconds.apk
 Quick Setup - Gradle
 ------
 
+``` java
 dependencies {
     ...
         compile 'com.kovachcode:timePickerWithSeconds:1.0.0'
 }
-
+```
 
 Quick Setup - Eclipse
 ------
