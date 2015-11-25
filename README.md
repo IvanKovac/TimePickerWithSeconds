@@ -11,7 +11,16 @@ Aplication
 ------
 It is under the root dir : TimePickerWithSeconds.apk
 
-Quick Setup
+Quick Setup - Gradle
+------
+
+dependencies {
+    ...
+        compile 'com.kovachcode:timePickerWithSeconds:1.0.0'
+}
+
+
+Quick Setup - Eclipse
 ------
 
 This is Android library project. To use it within your application follow these steps:
