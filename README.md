@@ -17,7 +17,7 @@ Quick Setup - Gradle
 ``` java
 dependencies {
     ...
-        compile 'com.kovachcode:timePickerWithSeconds:1.0.0'
+    compile 'com.kovachcode:timePickerWithSeconds:1.0.0'
 }
 ```
 
@@ -30,7 +30,11 @@ This is Android library project. To use it within your application follow these 
 2. Import project into Eclipse
 3. Right click on YOUR project - > Properties -> Android 
    Under the library choose "Add" and add TimePickerWithSeconds project
-4. Show the Picker with:
+
+USAGE
+------
+
+Show the Picker with:
    
 ``` java
 MyTimePickerDialog mTimePicker = new MyTimePickerDialog(this, new MyTimePickerDialog.OnTimeSetListener() {
