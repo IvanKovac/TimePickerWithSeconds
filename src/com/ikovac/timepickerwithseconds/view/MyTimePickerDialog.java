@@ -142,10 +142,10 @@ public class MyTimePickerDialog extends AlertDialog implements OnClickListener,
     }
     
     private void updateTitle(int hour, int minute, int seconds) {
-        mCalendar.set(Calendar.HOUR_OF_DAY, hour);
-        mCalendar.set(Calendar.MINUTE, minute);
-        mCalendar.set(Calendar.SECOND, seconds);
-        setTitle(mDateFormat.format(mCalendar.getTime()) + ":" + String.format("%02d" , seconds));
+        String sHour = String.format("%02d", hour);
+        String sMin = String.format("%02d", minute);
+        String sSec = String.format("%02d", seconds);
+        setTitle(sHour + ":" + sMin + ":" + sSec);
     }
     
     @Override
