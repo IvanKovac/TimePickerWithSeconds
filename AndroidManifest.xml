@@ -14,7 +14,7 @@
         android:label="@string/app_name"        
         android:theme="@android:style/Theme.Holo.NoActionBar">
         <activity
-            android:name="com.ikovac.timepickerwithseconds.MainActivity"
+            android:name="com.ikovac.timepickerwithseconds.sample.MainActivity"
             android:label="@string/app_name" 
             android:screenOrientation="portrait">
             <intent-filter>
