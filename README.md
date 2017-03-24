@@ -17,7 +17,7 @@ Quick Setup - Gradle
 ``` java
 dependencies {
     ...
-    compile 'com.kovachcode:timePickerWithSeconds:1.0.0'
+    compile 'com.kovachcode:timePickerWithSeconds:1.0.1'
 }
 ```
 
